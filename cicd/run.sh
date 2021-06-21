@@ -1,0 +1,1 @@
+docker pull registry:5000/npm-sbox:latest
